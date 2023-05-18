@@ -1,5 +1,5 @@
 # This is my version of the README
-
+Make sure to personalize it with your welcome message!
 ---
 
 Make sure to personalize your welcome message with something unique!
